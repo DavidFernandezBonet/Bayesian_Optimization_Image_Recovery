@@ -6,13 +6,6 @@
 
 
 
-This is a companion repository to our [paper](https://www.biorxiv.org/content/10.1101/2022.09.29.510142v1) (Fernandez Bonet & Hoffecker 2023, Image recovery from unknown network mechanisms for DNA sequencing-based microscopy).
 
-See [`demo.ipynb`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/master/Code/Tutorials/demo.ipynb) for a step-by-step guide.
-
-The other notebooks generate figures that we have in the paper:
-
-* [`Distortion plots`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/master/Code/Tutorials/Distortion%20plots%20.ipynb)
-* [`Computational Complexity`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/master/Code/Tutorials/Computational%20Complexity.ipynb)
-* [`Scalability and Accuracy`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/master/Code/Tutorials/Scalability%20and%20Accuracy.ipynb)
-
+See [`demo.ipynb`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/master/Code/Tutorials/demo.ipynb) for a step-by-step guide on the image recovery algorithm.
+See [Hyperparameter Optimization in the context of Imaging-By-Sequencing.ipynb](https://github.com/DavidFernandezBonet/Bayesian_Optimization_Image_Recovery/blob/master/Code/Tutorials/Hyperparameter%20Optimization%20in%20the%20context%20of%20Imaging-By-Sequencing.ipynb) for a tutorial on how to find the best set of hyperparameters. Bayesian Optimization is compared with Grid Search and Random Search.
